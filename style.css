@@ -119,17 +119,19 @@ table.tab{
         width: 80%;
     }
 .myImage{
-    margin-right: 100%;
+    margin-right: 70%;
     padding-top: 30%;
-    width: 100%;
+    width: 50%;
     float: left;
-    
+    display: block;
+    margin-left: auto;
 }
 
 h2{
     text-align: center;  
-    margin-bottom: 60%;
+    margin-bottom: 70%;
     margin-left: 100%;
+    
 }
 .cMage{
     width: 100%;
