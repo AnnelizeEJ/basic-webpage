@@ -76,4 +76,32 @@ body{
    .lan{
        margin-top: 10%;
    }
+   @media only screen and (max-width:688px) and (min-width:0px){
+    .side-bar{
+        display: block;
+    }
+    .place1 img{
+        float: right;
+        width: 40%;
+        padding: 1em;
+    }
+    .place2 img{
+        float: left;
+        width: 40%;
+        padding: 1em;
+    }
+    .place3 img{
+        float: right;
+        width: 40%;
+        padding: 1em;
+    }
+    .place1 {
+        width: 80%;
+    }
+    .place2 {
+        width: 80%;
+    }
+    .place3 {
+        width: 80%;
+    }   
   
