@@ -1,0 +1,79 @@
+body{
+    width: 100%;
+    background: url(./images/taylor-van-riper-yQorCngxzwI-unsplash.jpg);
+}
+.container{
+    width:80% ;
+    padding-left: 10%;
+}
+
+.profile{
+  display: flex;
+  justify-content: center;
+}
+.profile{
+    display: flex;
+    justify-content: center;
+  }
+  .myImage{
+      width: 200px;
+      height: 200px;
+      padding-left: 100px;
+  }
+  .citi img{
+      float: left;
+      padding: 1em;
+      
+  }
+  .text{
+      padding-left: 50px;
+      padding-top: 4em;
+  
+  }
+  
+  table, th,tr,td {
+      border: 1px solid black;
+      border-collapse: collapse;
+      text-align: center;
+       padding: 10px;
+  } 
+  table.tab{
+      width: 100%;
+      padding-left: 30px;
+      padding-right: 30px;
+  }
+  
+   .heading{
+       text-align: center;
+       padding-top: 5em;
+   }
+   .image1{
+       float: right;
+   }
+   
+   .image2{
+       float: right;
+   }
+   .image3{
+       float: right;
+   }
+  
+   .place1{ 
+      padding: 2%;   
+       width: 33%;
+   }
+   .place2{
+       padding: 2%;   
+       width: 33%;
+   }
+   .place3{
+      padding: 2%;
+       width: 33%;
+   }
+   .side-bar{
+       display: flex;
+   }
+   .lan{
+       margin-top: 10%;
+   }
+  
